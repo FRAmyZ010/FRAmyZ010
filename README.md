@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm FRAmyZ</h1>
 # 💫 About Me:
-📖 I'm a third-year Computer Engineering student at Mae Fah Luang University.
-
+<b>📖 I'm a third-year Computer Engineering student at Mae Fah Luang University.
+</b>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Frame010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/framyz_psp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:drgreanzgz@gmail.com) 
